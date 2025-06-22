@@ -1,6 +1,6 @@
 from init_sys import init_sys
 from fitness import fitness
-from evolution import GA, DE
+from evolution import GA
 from swarm import PSO, ABC, WOA, GWO, HHO
 from niching import nichingswarm
 from single_point import SA
